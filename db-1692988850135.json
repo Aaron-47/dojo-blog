@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Generating random paragraphs can be an excellent way for writers to get their creative flow going at the beginning of the day.",
+      "author": "Affan",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party",
+      "body": "lorem ipsum is the example paragraph which we use to create or generate the template",
+      "author": "Jared",
+      "id": 2
+    },
+    {
+      "title": "Web dev tools",
+      "body": "Another productive way to use this tool to begin a daily writing routine.",
+      "author": "Jared",
+      "id": 3
+    }
+  ]
+}

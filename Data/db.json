@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Generating random paragraphs can be an excellent way for writers to get their creative flow going at the beginning of the day.",
+      "author": "Affan",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party",
+      "body": "lorem ipsum is the example paragraph which we use to create or generate the template",
+      "author": "Jared",
+      "id": 2
+    },
+    {
+      "title": "Web dev tools",
+      "body": "Another productive way to use this tool to begin a daily writing routine.",
+      "author": "Aaron",
+      "id": 3
+    },
+    {
+      "title": "Test 1",
+      "body": "This is a testing blog to be added by me to see if the code is successful and the blog is added",
+      "author": "Affan",
+      "id": 4
+    },
+    {
+      "title": "Test 2",
+      "body": "This is test - 2 for giving out a loading message for the users to know that the state is changed and we are updating the blog adding it to our json . ",
+      "author": "Aaron",
+      "id": 5
+    },
+    {
+      "title": "Shiggy",
+      "body": "Wiggy",
+      "author": "Affan",
+      "id": 6
+    }
+  ]
+}

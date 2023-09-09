@@ -106,9 +106,13 @@
   margin-bottom: 40px ;
   text-decoration: double;
   color:#333;
-  text-transform:uppercase ;
+  text-transform:uppercase;
+  font-size: large;
+  font-style: normal;
 }
 .not-found p {
   margin-bottom: 40px;
   text-transform: capitalize;
+  font-size: medium;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
